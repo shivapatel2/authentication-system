@@ -1,10 +1,11 @@
 {
     "admin": [
         {
-            "username": "speed",
+            "username": "client",
             "password": "$2y$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
             "subscription": "aimkillapk",
-            "expiry": "2024-12-31"
+            "expiry": "2024-12-31",
+            "device_id": ""
         }
     ]
-}
+} 
