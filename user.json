@@ -1,8 +1,8 @@
 {
     "admin": [
         {
-            "username": "your_username",
-            "password": "bcrypt_hashed_password",
+            "username": "speed",
+            "password": "$2y$10$8K1p/a0dR1xqM8K1p/a0dR1xqM8K1p/a0dR1xqM8K1p/a0dR1xqM",
             "subscription": "aimkillapk",
             "expiry": "2024-12-31"
         }
