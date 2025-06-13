@@ -1,10 +1,10 @@
 {
-  "admin": [
-    {
-      "username": "admin",
-      "password": "password123",
-      "subscription": "aimkillapk",
-      "expiry": "2025-12-31"
-    }
-  ]
-} 
+    "admin": [
+        {
+            "username": "your_username",
+            "password": "bcrypt_hashed_password",
+            "subscription": "aimkillapk",
+            "expiry": "2024-12-31"
+        }
+    ]
+}
